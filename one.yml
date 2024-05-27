@@ -1,6 +1,6 @@
 ---
  - name: Enter your name
-   hosts: all
+   hosts: MYLIFE
    tasks:
    - name: To display my name
      debug:
